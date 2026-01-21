@@ -8,3 +8,5 @@
 
 - Funcionamiento del buscaminas: https://github.com/Abel-RV/ProyectoAbelAaronLuis/blob/main/Funcionamineto%20buscaminas.pdf
 
+- Enlace al cuestionario: https://forms.gle/K2bk2y7xKUqgSXTH9
+
